@@ -1,1 +1,1 @@
-# currency_Converter
+# currency_Converter Currency converter application uses currency converter api and this can convert the value of one currency into all other currencies and also have swap function to swap the currencies
